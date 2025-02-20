@@ -57,7 +57,6 @@ Contacto
 
 Si tienes dudas o sugerencias, puedes contactarme a través de GitHub o por correo electrónico.
 
-Marc Nacenta
-marcnacenta@gmail.com
-
+Autor: [Marc Nacenta]
+Correo: [marc.nacenta@gmail.com]
 
